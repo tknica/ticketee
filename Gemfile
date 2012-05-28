@@ -50,3 +50,4 @@ group :test do
   gem 'factory_girl'
 end
 
+gem 'devise', '~> 1.4.3'
